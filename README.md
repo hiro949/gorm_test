@@ -21,3 +21,6 @@ go run main.go
   - GET: /items (fetch all record)
   - GET: /iteme/{id} (fetch a record)
 
+Ref:
+- https://qiita.com/stranger1989/items/914bef8cc6ad77ef8350
+- https://qiita.com/leafeon00000/items/e190cf92af3a487cc749
